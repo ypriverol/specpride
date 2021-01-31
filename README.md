@@ -26,3 +26,5 @@ The html version of this page can be reached [here](https://statisticalbiotechno
  - [Lev Levitsky](mailto:lev.levitsky@phystech.edu), INEPCP RAS, Russia
  - [Sander Willems](mailto:sander.willems@ugent.be), Laboratory of Pharmaceutical Biotechnology, Ghent University, Belgium
  - [Henry Webel](mailto:henry.webel@sund.ku.dk), Novo Nordisk Foundation Center for Protein Research, Copenhagen University, Denmark
+ - [Mingze Bai](mailto:baimz@cqupt.edu.cn), Chongqing key Laboratory on Big Data for Bio Intelligence, Chongqing University of Posts and Telecommunications, China
+ - [Xiyang Luo](mailto:s190501003@stu.cqupt.edu.cn), Chongqing key Laboratory on Big Data for Bio Intelligence, Chongqing University of Posts and Telecommunications, China
